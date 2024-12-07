@@ -2,16 +2,15 @@
 ![github-header-image(4)](https://github.com/JulianCamiloGallego/JulianCamiloGallego/assets/56407915/1b8cd311-c3a5-4d47-b88f-8f313ecb16eb)
 
 ## About Me
-Hello! My name is Julian Gallego Franco. I am from Colombia 🇨🇴 but I have called Canada 🇨🇦 home for the last 19 years of my life! 
+Hello! My name is Julian! I am from Colombia 🇨🇴 but I have called Canada 🇨🇦 home for the last 20 years of my life!
 
-I am currently living in Edmonton where I am pursuing a Bachelor's degree with Specialization in Computer Science 🎓 at the University of Alberta 🟢🟡!
+I am currently living in Edmonton and have recently graduated with a Bachelor's degree in Computer Science 🎓 from the University of Alberta 🟢🟡!
 
-As I transition from my academic studies to the professional world, I am seeking internships opportunities for this summer 2024 ☀️ to apply and enhance the skills I've developed through my studies and previous work experiences!
+As I transition from my academic studies to the professional world, I am looking to kick-start my career by applying and enhancing the skills I've developed through my studies and previous work experiences!
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning UX/UI desing
 - 💬 Ask me about: Soccer
-- 📫 How to reach me: jcgallego22@gmail.com
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: gallegof@ualberta.ca
 - ⚡ Fun fact: I speak English, Spanish and French
 
 ## Languages and Tools
