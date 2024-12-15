@@ -1,5 +1,4 @@
 ## Hola 👋, welcome!
-![github-header-image(4)](https://github.com/JulianCamiloGallego/JulianCamiloGallego/assets/56407915/1b8cd311-c3a5-4d47-b88f-8f313ecb16eb)
 
 ## About Me
 Hello! My name is Julian! I am from Colombia 🇨🇴 but I have called Canada 🇨🇦 home for the last 20 years of my life!
