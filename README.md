@@ -1,13 +1,14 @@
-## Hey there!
+## Hey there
+![linkedinbanner](https://github.com/user-attachments/assets/266d04f6-246a-4ecd-8584-ca932f5c62a5)
 
 ## About Me
-I'm Julian! I recently finished my studies in Computer Science at the University of Alberta.
+➡️ I'm Julian! I recently finished my studies in Computer Science at the University of Alberta.
 
-Over the past few years, I’ve gained valuable hands-on experience through multiple internships, where I contributed to developing full-stack applications for mobile and web platforms. Working at IronSight, I implemented features using C#, Javascript, Flutter, and Vue.js, developing solutions directly shaped by client needs. I’ve collaborated with cross-functional teams and participated in DevOps processes to ensure high-quality, timely project delivery.
+➡️ Over the past few years, I’ve gained valuable hands-on experience through multiple internships, where I contributed to developing full-stack applications for mobile and web platforms. Working at IronSight, I implemented features using C#, Javascript, Flutter, and Vue.js, developing solutions directly shaped by client needs. I’ve collaborated with cross-functional teams and participated in DevOps processes to ensure high-quality, timely project delivery.
 
-I’ve led the development of the Communakit educational platform, tackled UX/UI challenges, and localized applications for multilingual environments. 
+➡️ I’ve led the development of the Communakit educational platform, tackled UX/UI challenges, and localized applications for multilingual environments. 
 
-I currently live in Edmonton and am eager to apply my skills to impactful projects and continue growing as a developer.
+➡️ I currently live in Edmonton and am eager to apply my skills to impactful projects and continue growing as a developer.
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
